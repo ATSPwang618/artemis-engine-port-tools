@@ -1,0 +1,26 @@
+本脚本是将mp4分帧数拆分成一帧一帧的图片
+再将图片合成mp4
+
+
+要求：
+
+1.确保 Python 和 pip 已安装：
+可使用下面命令在cmd查看
+python --version
+pip --version
+
+2.确保安装OpenCV和imageio
+安装命令：
+pip install opencv-python
+pip install imageio
+
+
+3.安装后使用下面的py代码验证是否成功安装OpenCV和imageio
+-----
+import cv2
+import imageio
+
+print(cv2.__version__)
+print(imageio.__version__)
+
+-----
