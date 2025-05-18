@@ -57,7 +57,11 @@
         这个是对Artemis engine的独有数据包xxx.pfs的解包工具集合
 
         使用方法详细参见目录集合
+（6）批量处理Artemis engine 工程分辨率
 
+        推荐使用工具VisualNovelUpscaler
+        
+        地址：https://github.com/hokejyo/VisualNovelUpscaler
 
 
 
