@@ -51,7 +51,7 @@
         （这个是ios的官方逆向模版壳，需要mac电脑进行打包文件，我没有这个，只能拜托大家自行尝试啦！）
 
 （4）artemis Android（支持emote工程）
-        这个是支持live2d的模版官方逆向壳，与artemis Android一样的用法，目前我没尝试
+        这个是支持emote的模版官方逆向壳，与artemis Android一样的用法，目前我没尝试
 
 （5）PFS文件解包工具
         这个是对Artemis engine的独有数据包xxx.pfs的解包工具集合
@@ -76,7 +76,7 @@
 
 
 -----------------------------------------------
- 在此特别感谢群友@桑田的分享，感谢@Anno tokyo大佬的无私分享！！
+ 在此特别感谢群友@沧海的分享，感谢@Anno tokyo大佬的无私分享！！
 
  
  特别感谢项目：https://github.com/morkt/GARbro
