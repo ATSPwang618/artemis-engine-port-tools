@@ -53,8 +53,30 @@
 （4）artemis Android（支持emote工程）
         这个是支持live2d的模版官方逆向壳，与artemis Android一样的用法，目前我没尝试
 
-        
+（5）PFS文件解包工具
+        这个是对Artemis engine的独有数据包xxx.pfs的解包工具集合
+
+        使用方法详细参见目录集合
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-----------------------------------------------
  在此特别感谢群友@桑田的分享，感谢@Anno tokyo大佬的无私分享！！
+
+ 
+ 特别感谢项目：https://github.com/morkt/GARbro
+ 
         
 
 
