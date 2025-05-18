@@ -48,7 +48,7 @@
         C:\Users\26241>C:\Users\26241\Desktop\asbutil.exe C:\Users\26241\Desktop\script.asb
 
 （3）ios模板包.ipa
-        （这个是ios的官方逆向模版壳，需要mac电脑，大家可以自行尝试）
+        （这个是ios的官方逆向模版壳，需要mac电脑进行打包文件，我没有这个，只能拜托大家自行尝试啦！）
 
 （4）artemis Android（支持emote工程）
         这个是支持live2d的模版官方逆向壳，与artemis Android一样的用法，目前我没尝试
