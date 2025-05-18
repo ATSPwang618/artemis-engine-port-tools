@@ -1,0 +1,4 @@
+这里面有3个工具，分别是
+（1）pfs_upk.exe（用法：pfs_upk <FILENAME.pfs>解包  ；pfs_upk <PATH>加密包）
+（2）封包工具GeneratePackFile2（提取自官方SDK）
+（3）GARbro
