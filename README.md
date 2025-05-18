@@ -46,6 +46,15 @@
         即可得到这个asb文件里面的明文代码：
         
         C:\Users\26241>C:\Users\26241\Desktop\asbutil.exe C:\Users\26241\Desktop\script.asb
+
+（3）ios模板包.ipa
+        （这个是ios的官方逆向模版壳，需要mac电脑，大家可以自行尝试）
+
+（4）artemis Android（支持emote工程）
+        这个是支持live2d的模版官方逆向壳，与artemis Android一样的用法，目前我没尝试
+
+        
+ 在此特别感谢群友@桑田的分享，感谢@Anno tokyo大佬的无私分享！！
         
 
 
