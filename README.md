@@ -34,4 +34,23 @@
           gradlew.bat clean build --stacktrace
           
         （5）在build目录下找到输出的apk文件，安装测试即可，建议使用谷歌默认的安装器，一些国产安卓app安装器会拦截安装包的安装，因为没有验证
+
+（2）asb解密查看：
+
+        用法：
+        
+        cmd打开软件，输入命令asbutil.exe的路径  asb文件路径
+        
+        例如：C:\Users\26241\Desktop\asbutil.exe C:\Users\26241\Desktop\script.asb
+        
+        即可得到这个asb文件里面的明文代码：
+        
+        C:\Users\26241>C:\Users\26241\Desktop\asbutil.exe C:\Users\26241\Desktop\script.asb
+        
+
+
+
+
+
+        
         
